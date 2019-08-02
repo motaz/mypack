@@ -1,6 +1,9 @@
 // mypack project mypack.go
 package mypack
 
+// Update
+
 func Sum(x int, y int) int {
-	return x + y
+	sum := x + y
+	return sum
 }
